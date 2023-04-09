@@ -1,0 +1,20 @@
+$ git help
+$ git help config
+$ git config --global user.name "mitovskasimona"
+$ git config --global user.email mitovska.simona@yahoo.com
+$ mkdir store
+$ cd storee
+$ git init
+$ git status
+$ git add README.txt
+$ git add README.txt LICENSE
+$ git add --all
+
+$ git commit -m "Add LICENSE and finish README."
+$ git log
+$ git add SILab1.java
+$ git remote add origin https://github.com/mitovskasimona/SI_2023_lab1_171189.git
+$ git remote -v
+
+$ git push -u origin master
+$ git push -u origin master
